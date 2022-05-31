@@ -14,4 +14,4 @@ while (guessTwo) {
     }
 }
 
-console.log("Those numbers sum to: " + sumOne);;;;
+console.log("Those numbers sum to: " + sumOne);
