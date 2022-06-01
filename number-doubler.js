@@ -9,7 +9,7 @@ numOne = Number(prompt("Enter number: "));
 while (varOne === true) {
 
     numOne = numOne * 2;
-    if (numOne <= 100) {
+    if (numOne < 100) {
         console.log(numOne)
     }
     
